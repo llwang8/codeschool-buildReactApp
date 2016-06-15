@@ -1,5 +1,5 @@
 import React from 'react';
-import CommentRemoveConfirmation from './comment-remove-confirmation.js';
+import CommentRemoveConfirmation from './comment-remove-confirmation';
 
 export default class Comment extends React.Component {
   constructor() {
@@ -48,3 +48,4 @@ export default class Comment extends React.Component {
     this.props.onDelete(this.props.id);
   }
 }
+
