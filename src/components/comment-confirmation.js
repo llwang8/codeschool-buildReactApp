@@ -44,3 +44,9 @@ export default class CommentConfirmation extends React.Component {
     this.props.onConfirm();
   }
 }
+
+CommentConfirmation.proptypes = {
+  onConfirm: React.PropTypes.func.isRequired
+};
+
+
