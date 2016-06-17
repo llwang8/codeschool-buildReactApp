@@ -1,6 +1,11 @@
-# Babel with Gulp
+# Dynamic Commenting Application
 
-Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Browserify.
+Built a dynamic comments display applicaiton where users can add, delete or report as abusive comments. [Check it out! - to be deployed to aws](https://www.aws.com/)
+
+
+# Built with JavaScript (ES2015), React.js, Babel with Gulp
+
+Implement JavaScipt ES2015. Transpile ES2015 (including modules) with Babel, Gulp and Browserify.
 
 
 # Installing
@@ -15,12 +20,13 @@ Run `npm start` from the command line and you are good to go!
 
 The project is currently setup to transpile code under the _/src_ folder using the _/src/app.js_ file as an entry point.
 
-Our resulting code ends up in the `public` directory.
+The resulting code ends up in the `public` directory.
 
-# Watch the videos
+# Resources
+
+Original inspirations from CodeSchool - Watch us build videos
 - [Add a Build System to a React Application](https://www.codeschool.com/screencasts/add-a-build-system-to-a-react-application)
-- [ES2015 and the Virtual DOM in a React Application](https://www.codeschool.com/screencasts/es2015-and-the-virtual-dom-in-a-react-application)
-- [Add a Router to a React Application](https://www.codeschool.com/screencasts/add-a-router-to-a-react-application)
+- [Powering up with React](https://www.codeschool.com/courses/powering-up-with-react)
 
 _A Code School subscription is required before watching the videos. Don't have one yet? [Sign up today!](https://www.codeschool.com/pricing)_
 
