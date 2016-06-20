@@ -1,6 +1,6 @@
-# Dynamic Commenting Application
+## Dynamic Blog Application
 
-Built a dynamic comments display applicaiton where users can add, delete or report as abusive comments. [Check it out! - to be deployed to aws](https://www.aws.com/)
+Built a dynamic picture, video sharing and blog applicaiton where users can add, delete or report as abusive comments. Used the React router to link and navigate between different pages.  [Check it out! - to be deployed to aws](https://www.aws.com/)
 
 
 # Built with JavaScript (ES2015), React.js, Babel with Gulp
@@ -13,6 +13,7 @@ Implement JavaScipt ES2015. Transpile ES2015 (including modules) with Babel, Gul
 1. Clone the repo
 2. `npm install -g gulp` to install Gulp globally.
 3. `npm install` to resolve project dependencies.
+4. npm install react-router --save-dev
 
 # Using
 
@@ -24,9 +25,13 @@ The resulting code ends up in the `public` directory.
 
 # Resources
 
-Original inspirations from CodeSchool - Watch us build videos
-- [Add a Build System to a React Application](https://www.codeschool.com/screencasts/add-a-build-system-to-a-react-application)
+Original inspirations from CodeSchool
+- Watch us build videos - [Add a Build System to a React Application](https://www.codeschool.com/screencasts/add-a-build-system-to-a-react-application)
+
+- Watch us build videos - [Add a router to a React Application](https://www.codeschool.com/screencasts/add-a-router-to-a-react-application)
+
 - [Powering up with React](https://www.codeschool.com/courses/powering-up-with-react)
+
 
 _A Code School subscription is required before watching the videos. Don't have one yet? [Sign up today!](https://www.codeschool.com/pricing)_
 
